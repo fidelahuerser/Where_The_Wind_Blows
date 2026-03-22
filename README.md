@@ -8,6 +8,6 @@ M2-GA Demoreel Collaborative Project
 ## Meet the crew
 
 | Roles | Game Art |
-| ----------- | ----------- |-------------|
+| ----------- | ----------- |
 | Character Artist / Props | Fiona |
 | Environment Artist / Organic | Riva |
